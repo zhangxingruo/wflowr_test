@@ -12,6 +12,8 @@ Welcome to my research website.
 
 * [Teeth growth analysis](teeth.html)
 
+* [My teammate: Conor Lee-Smith's teeth growth analysis](https://cfleesmith.github.io/cfl_workflowr_project/)
+
 
 
 
